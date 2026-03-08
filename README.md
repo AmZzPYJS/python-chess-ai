@@ -30,5 +30,3 @@ pip install -r requirements.txt
 
 python main.py
 ```
-
-![Chess AI](C:\Users\algme\OneDrive\Bureau\Chess ia\python-chess-ai\screen\screenechec.png)
